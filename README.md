@@ -1,2 +1,2 @@
 # user-rails-webpack-react-semantic
-A basic user log in using ruby on rails with webpack, react, and semantic ui. The activeStorage branch uses active storage to link an image to a users.
+A basic user sign up and log in using ruby on rails with webpack and react. The active_storage_user file uses activeStorage to link an image to a users.
